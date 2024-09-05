@@ -1,5 +1,5 @@
 
-# ChatGPT Memory Function - README
+# ChatGPT Memory Function
 
 ## Overview
 
