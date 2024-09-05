@@ -1,6 +1,6 @@
 
 # ChatGPT Memory Function
-
+![ChatGPT Memory Function](chatgpt.png)
 ## Overview
 
 This document provides an in-depth explanation of the **ChatGPT Memory Function**. The memory feature enables OpenAI's ChatGPT to retain key pieces of information between interactions. This is an account-specific feature, meaning that any data saved is connected to your account across different sessions and tabs. Below are detailed descriptions of how the memory function works, its capabilities, limitations, and how to potentially interact with it programmatically.
