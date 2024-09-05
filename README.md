@@ -10,7 +10,7 @@ This document provides an in-depth explanation of the **ChatGPT Memory Function*
 ## Features
 
 ### 1. **Account-Specific Memory**
-   - The memory is **linked to your ChatGPT Plus account**, meaning any saved information persists across multiple tabs, sessions, or devices, as long as you're logged in.
+   - The memory is **for ChatGPT Plus accounts**, meaning any saved information persists across multiple tabs, sessions, or devices, as long as you're logged in.
    - Information stored can be recalled, modified, or deleted upon request.
    - Each piece of memory is tagged with specific keywords or phrases for easy recall during future interactions.
 
