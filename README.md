@@ -21,7 +21,7 @@ This document provides an in-depth explanation of the **ChatGPT Memory Function*
 ### 3. **Examples of Memory Use Cases**
    - Remember key project details.
    - Recall personal preferences (e.g., how you like code formatted).
-   - Store long-term information about ongoing issues (e.g., "Problem with Wohnheim Neustart").
+   - Store long-term information about ongoing issues (e.g., "Problem with Crap and Junk").
    - Automatically recall previous conversations or key facts across multiple sessions.
 
 ---
