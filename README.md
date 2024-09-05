@@ -102,7 +102,6 @@ This document provides an in-depth explanation of the **ChatGPT Memory Function*
    You can request ChatGPT to delete specific memory entries at any time. Example commands:
    ```text
    "Forget the memory about Project Alpha."
-   "Delete the information about the 'Problem with Wohnheim Neustart'."
    ```
 
 ### 2. **Manual Update**:
